@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\svtra\\Downloads\\theavesn_BMIcalc\\Theavesn_BMIcalc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0860B80E-F4D9-21F4-F8C6-DA0ADC5E8AB9}|CalculateArea\\theavesn_BMIcalc.csproj|c:\\users\\svtra\\downloads\\theavesn_bmicalc\\theavesn_bmicalc\\calculatearea\\areacalcpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0860B80E-F4D9-21F4-F8C6-DA0ADC5E8AB9}|CalculateArea\\theavesn_BMIcalc.csproj|solutionrelative:calculatearea\\areacalcpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AreaCalcPage.xaml",
+              "DocumentMoniker": "C:\\Users\\svtra\\Downloads\\theavesn_BMIcalc\\Theavesn_BMIcalc\\CalculateArea\\AreaCalcPage.xaml",
+              "RelativeDocumentMoniker": "CalculateArea\\AreaCalcPage.xaml",
+              "ToolTip": "C:\\Users\\svtra\\Downloads\\theavesn_BMIcalc\\Theavesn_BMIcalc\\CalculateArea\\AreaCalcPage.xaml",
+              "RelativeToolTip": "CalculateArea\\AreaCalcPage.xaml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-09T04:42:57.538Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
